@@ -8,5 +8,7 @@ sueldo semanal en base a horas trabajadas
 4. multiplicar horasTrabajadas * pagoPorHora
 5. sueldoSemanal 
 6. fin
+
 ##imagen
+
 ![imagen diagrama de flujo](http://1.1m.yt/BBHFKNR.jpg)
